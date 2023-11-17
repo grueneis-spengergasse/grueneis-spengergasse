@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile. I'm a teacher for software development and a technical high school
+in Vienna, Austria - @Die-Spengergasse
+
+My main focus of using GitHub is for educational purposes.
+
+Mainly I'm working with GitHub Classrooms - which are great ;)
+
 <!--
 **grueneis-spengergasse/grueneis-spengergasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
